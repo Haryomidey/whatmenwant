@@ -1,23 +1,23 @@
-import Logo from './logo.png';
-import TradeImage from './trade-image.webp';
-import WalletImage from './wallet-image.webp';
-import P2pGaming from './p2p-gaming.webp';
-import GameOrder from './game-order.webp';
-import HeroImage from './hero.webp';
-import Usdt from './usdt.jpeg';
-import Bitcoin from './bitcoing.jpeg';
-import Eth from './ethereum.png';
-import Bnb from './bnb.png';
+import HeroMenGroup from './hero-men-group.png';
+import CareerPurpose from './career-purpose.png';
+import LoyalLove from './loyal-love.png';
+import MentalHealth from './mental-health.png';
+import PeacefulMan from './peaceful-man.png';
+import RespectMen from './respect-men.png';
+import ModernRelationship from './modern-relationships.png';
+import StoryMan1 from './story-man1.png';
+import StoryMan2 from './story-man2.png';
+import StoryMan3 from './story-man3.png';
 
 export const images = {
-    logo: Logo,
-    tradeImage: TradeImage,
-    walletImage: WalletImage,
-    p2pGaming: P2pGaming,
-    gameOrder: GameOrder,
-    heroImage: HeroImage,
-    usdt: Usdt,
-    bitcoin: Bitcoin,
-    eth: Eth,
-    bnb: Bnb,
+    HeroMenGroup,
+    CareerPurpose,
+    LoyalLove,
+    MentalHealth,
+    PeacefulMan,
+    RespectMen,
+    ModernRelationship,
+    StoryMan1,
+    StoryMan2,
+    StoryMan3,
 }
