@@ -24,7 +24,7 @@ const Testimonials = () => {
                     View All <FiArrowRight />
                 </a>
             </div>
-            <div className="grid md:grid-cols-2 gap-8">
+            <div className="grid md:grid-cols-3 gap-8">
                 {testimonials.map((t, i) => (
                     <div key={i} className="bg-emerald-50 border-l-4 border-emerald-600 p-8 rounded-xl">
                         <p className="italic text-gray-700 mb-4">“{t.text}”</p>
